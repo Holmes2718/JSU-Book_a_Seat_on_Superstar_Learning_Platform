@@ -169,3 +169,6 @@ MAX_ATTEMPT = 4 # 最大尝试次数
 
 源项目，从下面的链接改的
 https://gitee.com/lcz2000/ChaoXingLibrarySeatReservation
+
+
+当上面的都没问题了之后，可以设置一个windows定时程序，每天晚上自动执行
