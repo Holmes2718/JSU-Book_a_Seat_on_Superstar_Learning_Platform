@@ -79,6 +79,7 @@ xxxxxxx,xxxxxxx
 
 4.**运行action**：在action -> auto_reserve -> run workflows 选择main分支即可。
 
+吉首大学只用修改账号密码，别的高校需要自己去查找一下roomid哦，学习通断网就可打开网页查看id了
 
 ## config配置
 之后编辑config.json并填写座位预约相关信息即可
