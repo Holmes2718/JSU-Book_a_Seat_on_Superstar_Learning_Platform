@@ -1,0 +1,37 @@
+{
+  "reserve": [
+    {
+      "username": "your_username",
+      "password": "your_password",
+      "time": [
+        "10:00",
+        "22:00"
+      ],
+      "roomid": "5559",
+      "seatid": [
+        "202"
+      ],
+      "daysofweek": [
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+      ]
+    }
+  ],
+  "mail": {
+    "host": "smtp.qq.com",
+    "port": 465,
+    "secure": true,
+    "auth": {
+      "user": "your_email@qq.com",
+      "pass": "your_email_authorization_code"
+    }
+  },
+  "receivers": [
+    "your_email@example.com"
+  ]
+}
